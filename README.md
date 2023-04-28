@@ -6,7 +6,7 @@
 
 3.git config –-global user.name “Aymuos22” : Sets configuration values for your user name on git.
 
-4.git config –-global user.email suklasoumyadrashan@gmail.com : Sets configuration values for your user email on git.
+4.git config –-global user.email suklasoumyadarshan@gmail.com : Sets configuration values for your user email on git.
 
 5.git config –-global color.ui true : To see different colours on command line for different outputs.
 
